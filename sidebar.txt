@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zag:home|Door43 (zag)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zag|d43-zag repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zag/archive/master.zip|d43-zag.zip]]
+
+**Recent Changes**
+{{changes>ns = zag}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zag|Ethnologue data]]
+
